@@ -2,14 +2,14 @@
 
 <p align="center">
   <strong>Cloud & DevOps Engineer</strong><br/>
-  Automation • Infrastructure as Code • Cloud Security • CI/CD • Cloud Governance
+  Production Infrastructure • Platform Engineering • Automation • Cloud Security • CI/CD
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/merakchi/">
     <img src="https://img.shields.io/badge/LinkedIn-Badis%20Merakchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://portfolio.badismerakchi.com/">
+  <a href="https://portfolio.badismerakchi.com/">
     <img src="https://img.shields.io/badge/Portfolio-portfolio.badismerakchi.com-6366F1?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://github.com/Badis-M">
@@ -21,11 +21,25 @@
 
 ## About me
 
-Cloud & DevOps consultant focused on building secure, reproducible and automated infrastructure.
+I'm a Cloud & DevOps Engineer building, automating and operating infrastructure for production environments.
 
-I have hands-on experience across cloud engineering, infrastructure automation, CI/CD, Linux administration, IAM, networking and cloud governance, with a strong interest in production-grade DevOps practices.
+My experience spans cloud delivery, infrastructure migrations, Linux operations, CI/CD, IAM, networking and cloud governance, including work in regulated Swiss environments.
 
-Currently strengthening my skills around Kubernetes, observability, advanced AWS, Terraform and modern CI/CD workflows.
+I take ownership from technical design through implementation and ongoing operations. My priorities are secure access, reproducible deployments, reliable systems and infrastructure that teams can understand and maintain.
+
+I turn manual procedures into automated workflows, troubleshoot across infrastructure layers and build tooling that makes day-to-day operations simpler.
+
+I also use AI coding assistants and LLMs in my engineering workflow to accelerate development, investigate issues and improve documentation. I review the code, test the changes and remain accountable for what ships.
+
+---
+
+## What I work on
+
+- **Production infrastructure:** cloud provisioning, migrations, configuration and operations.
+- **Infrastructure as Code:** reusable Terraform modules and consistent environments.
+- **Delivery automation:** CI/CD pipelines, deployment workflows and operational tooling.
+- **Security and governance:** IAM, SSO, network controls, least privilege and cost management.
+- **Platform engineering:** containerized workloads, Kubernetes, observability and developer tooling.
 
 ---
 
@@ -40,6 +54,7 @@ Currently strengthening my skills around Kubernetes, observability, advanced AWS
 ### Infrastructure as Code & provisioning
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Make](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### Containers & orchestration
@@ -50,17 +65,24 @@ Currently strengthening my skills around Kubernetes, observability, advanced AWS
 ![Oracle OKE](https://img.shields.io/badge/Oracle%20OKE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### Automation & configuration management
+### Automation & programming
 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### CI/CD & version control
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### AWS services
 
@@ -74,10 +96,10 @@ Currently strengthening my skills around Kubernetes, observability, advanced AWS
 ### Systems & networking
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-F80000?style=flat-square&logo=oracle&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-0066CC?style=flat-square&logo=cloudflare&logoColor=white)
 ![TLS](https://img.shields.io/badge/TLS%20%2F%20HTTPS-0052CC?style=flat-square&logo=letsencrypt&logoColor=white)
@@ -96,56 +118,57 @@ Currently strengthening my skills around Kubernetes, observability, advanced AWS
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Web & scripting basics
+### Web development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### AI-assisted engineering
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white)
+![AI Coding Assistants](https://img.shields.io/badge/AI%20Coding%20Assistants-181717?style=for-the-badge&logoColor=white)
+
+AI-assisted development, code review, debugging, documentation and workflow automation — with human review and validation.
 
 ---
 
 ## Featured projects
 
+These repositories document infrastructure designs, automation and deployment workflows alongside my professional production experience.
+
 ### AWS Ephemeral Web Platform
 
-Secure and reproducible AWS infrastructure designed to be created and destroyed on demand.
+Secure, reproducible AWS infrastructure with automated provisioning, application deployment and teardown.
 
-**Focus:** Terraform, AWS EC2, VPC, IAM, SSM, Ansible, Docker, Makefile automation, cost control.
+Designed to make environments easy to recreate while keeping access controls and cost management explicit.
+
+**Focus:** Terraform, AWS EC2, VPC, IAM, Systems Manager, Ansible, Docker and Makefile automation.
 
 ### AWS EKS Observability Platform
 
-Terraform-managed Kubernetes platform on AWS EKS with an observability-oriented architecture.
+A modular Kubernetes infrastructure project on AWS EKS, combining infrastructure provisioning, container registry integration and observability foundations.
 
-**Focus:** EKS, Terraform modules, ECR, Kubernetes providers, Helm foundations, cloud networking.
+**Focus:** Amazon EKS, Terraform modules, ECR, Kubernetes, Helm and cloud networking.
 
 ### Pokedex DevOps Deployment Lab
 
-Small application deployment lab used to practice CI/CD, infrastructure provisioning and deployment automation.
+An application delivery project covering containerization, infrastructure provisioning and automated deployment.
 
-**Focus:** Node.js, GitHub Actions, Docker, Terraform, Ansible, AWS, deployment workflow.
+**Focus:** Node.js, GitHub Actions, Docker, Terraform, Ansible and AWS.
 
 ---
 
-## Current focus
+## Engineering priorities
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-000000?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![AWS](https://img.shields.io/badge/Advanced%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-- Production-grade Kubernetes concepts
-- Monitoring and observability workflows
-- Advanced Terraform module design
-- Secure CI/CD and deployment automation
-- Cloud cost optimization and governance
+- **Reliability:** observable systems, clear failure handling and practical troubleshooting.
+- **Security:** least privilege, controlled access and explicit configuration.
+- **Reproducibility:** versioned infrastructure and repeatable deployments.
+- **Delivery:** automated checks and maintainable release workflows.
+- **Efficiency:** cost awareness and less repetitive operational work.
 
 ---
 
 <p align="center">
-  <strong>Building practical DevOps projects with automation, security and reproducibility in mind.</strong>
+  <strong>Building reliable infrastructure and making production operations simpler.</strong>
 </p>
